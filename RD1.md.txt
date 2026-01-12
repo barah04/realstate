@@ -1,0 +1,44 @@
+Release / Maintenance Documentation
+Project realestce
+
+Realstate1
+Release1
+
+v1.1 – Login Page Maintenance Release
+
+Release Date
+12/1/2026
+
+Description
+
+This release includes maintenance and UI improvements applied to the existing login page.
+The goal of this update was to enhance the user interface and improve visual consistency without changing the core functionality.
+
+Changes Made
+Improved the overall page layout using CSS.
+Updated background color for better visual appearance.
+Styled input fields (username and password).
+Updated login button color and added hover effect.
+Improved alignment and spacing for better user experience.
+Files Modified
+
+login.html
+Added internal CSS styling.
+Enhanced UI components (form, inputs, button).
+Maintenance Type
+UI Maintenance
+Minor Enhancement
+No functional logic changes were applied.
+Jira Integration
+Related Jira Issue: SCRUM-5
+Issue Type: Maintenance / Update
+Status: Done
+GitHub Information
+Branch used: maintenance/login-update
+Pull Request created and merged into main
+GitHub Release created for this version
+
+Notes
+This release does not affect system functionality.
+No breaking changes were introduced.
+Project is stable and ready for further development.
